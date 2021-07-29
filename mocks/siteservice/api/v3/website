@@ -1,0 +1,19 @@
+[
+    {
+        "_id": "metro-world-news",
+        "display_name": "Metro Test News",
+        "is_default_website": true
+
+    },
+    {
+        "_id": "mwn",
+        "display_name": "Metro World News",
+        "is_default_website": false
+ 
+    },
+    {
+        "_id": "publimetro-chile",
+        "display_name": "Publimetro Chile",
+        "is_default_website": false
+    }
+]
